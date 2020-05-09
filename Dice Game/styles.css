@@ -1,0 +1,41 @@
+.container{
+	margin: auto;
+	width: 70%;
+	
+}
+
+.dice{
+	display: inline-block;
+	
+}
+
+.footer{
+	margin-top: 10%;
+	color: #fff;
+}
+
+
+body{
+	background-color: #1b1b2f;
+	text-align: center;
+}
+
+h1{
+	color: lightgreen;
+	font-size: 5rem;
+	font-family: 'Dancing Script', cursive;
+	font-weight: 8rem;
+	margin: 40px;
+}
+p{
+	color:lightgreen;
+	font-size: 1.5rem;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+img{
+	width: 80%;
+}
+
+
+	
